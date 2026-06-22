@@ -88,22 +88,24 @@
 
 <br/>
 
-<!-- SECTION 2: ABOUT ME - Use fenced code block (NOT inside any div) -->
+<!-- SECTION 2: ABOUT ME - Visual table card, NO code block -->
 
 ## 🧑‍💻 About Me
 
-```ts
-const noah = {
-  name:     "Noah",
-  location: "Earth · Asia",
-  role:     "Full-Stack Developer & Creative Coder",
-  code:     ["TypeScript", "JavaScript", "Python"],
-  focus:    ["AI", "Computer Vision", "Creative Coding", "Web Dev"],
-  building: "Halo & ShanShuiQing",
-  motto:    "Every commit is a brushstroke",
-  funFact:  "I turn hand gestures into ink paintings"
-};
-```
+<div align="center">
+
+| | |
+|:---:|---|
+| 🏷️ **Name** | Noah |
+| 📍 **Location** | Earth · Asia |
+| 💼 **Role** | Full-Stack Developer & Creative Coder |
+| 💻 **Code** | TypeScript · JavaScript · Python |
+| 🎯 **Focus** | AI · Computer Vision · Creative Coding · Web Dev |
+| 🚧 **Building** | Halo & ShanShuiQing |
+| 📝 **Motto** | Every commit is a brushstroke |
+| ✨ **Fun Fact** | I turn hand gestures into ink paintings |
+
+</div>
 
 <br/>
 
