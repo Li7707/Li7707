@@ -40,11 +40,27 @@
 
 <br/>
 
-<!-- ═══════════ ABOUT ME ═══════════ -->
+<!-- ═══════════ ABOUT ME (左图右文，开头位置) ═══════════ -->
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="32%" align="center" valign="middle">
+
+<!-- Dark/Light mode adaptive avatar -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4">
+  <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4">
+  <img src="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4" width="200" style="border-radius: 50%; border: 3px solid #F472B6; box-shadow: 0 0 24px rgba(244,114,182,0.35);" alt="Noah avatar"/>
+</picture>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Repos-F472B6?style=flat-square&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Stars-EC4899?style=flat-square&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Followers-DB2777?style=flat-square&logo=github&logoColor=white"/>
+
+</td>
+<td width="68%" valign="top">
 
 ## 🧑‍💻 About Me
 
@@ -59,29 +75,49 @@
 <tr><td><strong>💻 Languages</strong></td><td>TypeScript · JavaScript · Python</td></tr>
 <tr><td><strong>🎯 Focus</strong></td><td>AI · Computer Vision · Creative Coding</td></tr>
 <tr><td><strong>🚧 Building</strong></td><td>Halo & ShanShuiQing</td></tr>
+<tr><td><strong>💡 Motto</strong></td><td>Every commit is a brushstroke</td></tr>
 </table>
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4">
-  <img src="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4" width="200" style="border-radius: 50%; border: 3px solid #F472B6;" alt="Noah avatar"/>
-</picture>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/Repos-F472B6?style=flat-square&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Stars-EC4899?style=flat-square&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Followers-DB2777?style=flat-square&logo=github&logoColor=white"/>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
+
+<br/>
+
+<!-- ═══════════ CURRENTLY WORKING ON (svg.bookmark.style 风格) ═══════════ -->
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+<br/>
+
+<a href="https://github.com/Li7707/ShanShuiQing">
+  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/ShanShuiQing&mode=light&style=horizontal" width="49%" alt="ShanShuiQing"/>
+</a>
+<a href="https://github.com/Li7707/Halo">
+  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/Halo&mode=dark&style=horizontal" width="49%" alt="Halo"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Li7707/ai-novel-comic-generator">
+  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/ai-novel-comic-generator&mode=light&style=horizontal" width="49%" alt="ai-novel-comic-generator"/>
+</a>
+<a href="https://github.com/Li7707/Together">
+  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/Together&mode=dark&style=horizontal" width="49%" alt="Together"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Li7707/ShangXianAI">
+  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/ShangXianAI&mode=light&style=horizontal" width="49%" alt="ShangXianAI"/>
+</a>
+<a href="https://github.com/Li7707/lensflow">
+  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/lensflow&mode=dark&style=horizontal" width="49%" alt="lensflow"/>
+</a>
 
 <br/>
 
@@ -136,120 +172,15 @@
 
 <br/>
 
-<!-- ═══════════ PROJECTS ═══════════ -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖌️ ShanShuiQing
-
-**「山水情」** · *Gesture-driven Ink Painting*
-
-Interactive digital ink painting — hand gestures become brush strokes on virtual rice paper. A meditation on Chinese ink-wash aesthetics, powered by computer vision.
-
-<sub>
-<img src="https://img.shields.io/badge/TypeScript-BE185D?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-DB2777?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/⭐_1-EC4899?style=flat-square"/>
-</sub>
-
-[→ View Project](https://github.com/Li7707/ShanShuiQing)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ Halo
-
-**AI-Powered Experimental** · *TypeScript & Python*
-
-Where human creativity meets machine intelligence. The codebase reads like a sketchbook — half-finished thoughts, fully committed to the craft.
-
-<sub>
-<img src="https://img.shields.io/badge/TypeScript-BE185D?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-DB2777?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/⭐_1-EC4899?style=flat-square"/>
-</sub>
-
-[→ View Project](https://github.com/Li7707/Halo)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📖 ai-novel-comic-generator
-
-**AI Novel → Comic** · *Generative Pipeline*
-
-Turn novels into comics. Reads narrative, renders panels automatically. Exploring how stories can be retold across mediums.
-
-<sub>
-<img src="https://img.shields.io/badge/TypeScript-BE185D?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generation-DB2777?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/⭐_1-EC4899?style=flat-square"/>
-</sub>
-
-[→ View Project](https://github.com/Li7707/ai-novel-comic-generator)
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 Together
-
-**Community Platform** · *Python · Social*
-
-Building for the people who actually show up. Presence over performance, conversation over metrics. A space for genuine connection.
-
-<sub>
-<img src="https://img.shields.io/badge/Python-BE185D?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Community-DB2777?style=flat-square&logo=discourse&logoColor=white"/>
-</sub>
-
-[→ View Project](https://github.com/Li7707/Together)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 🧠 ShangXianAI &nbsp;·&nbsp; 上仙
-
-*Where AI meets ancient Chinese mythology. Every sufficiently advanced technology is indistinguishable from magic.*
-
-<sub>
-<img src="https://img.shields.io/badge/AI-BE185D?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Experimental-DB2777?style=flat-square&logo=git&logoColor=white"/>
-</sub>
-
-[→ View Project](https://github.com/Li7707/ShangXianAI)
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
-
-<br/>
-
 <!-- ═══════════ TECH STACK ═══════════ -->
 
 ## 🧱 Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-
 <img src="https://skillicons.dev/icons?i=ts,js,python,vue,react,nodejs,express,vite,threejs,git,github,vscode,figma,linux,bash,ps&perline=8&theme=dark" alt="stack"/>
 
 <br/><br/>
-
-### Tools & Libraries
 
 <img src="https://img.shields.io/badge/TypeScript-BE185D?style=for-the-badge&logo=typescript&logoColor=white" alt="ts"/>
 <img src="https://img.shields.io/badge/JavaScript-DB2777?style=for-the-badge&logo=javascript&logoColor=white" alt="js"/>
@@ -266,26 +197,6 @@ Building for the people who actually show up. Presence over performance, convers
 <img src="https://img.shields.io/badge/Element_Plus-DB2777?style=for-the-badge&logo=element&logoColor=white" alt="el"/>
 <img src="https://img.shields.io/badge/MySQL-EC4899?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 <img src="https://img.shields.io/badge/Vite-F472B6?style=for-the-badge&logo=vite&logoColor=white" alt="vite"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
-
-<br/>
-
-<!-- ═══════════ EXPLORING ═══════════ -->
-
-## 🔭 What I'm Exploring
-
-<div align="center">
-
-| 🧠 **AI & Generative** | 🖌️ **Creative Coding** | 💻 **Full-Stack** | 🌐 **Communities** |
-|:---:|:---:|:---:|:---:|
-| Agentic AI | Computer Vision | TypeScript | Open Source |
-| LLM Integration | Interactive Art | Vue 3 | Developer Tools |
-| Image Generation | Real-time Graphics | Node.js | Student Devs |
 
 </div>
 
