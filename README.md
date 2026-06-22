@@ -26,10 +26,10 @@
 
 <br/>
 
-<a href="https://marcyy.me"><img src="https://img.shields.io/badge/Coming_Soon-EC4899?style=for-the-badge&logo=safari&logoColor=white" alt="website"/></a>
-<a href="https://github.com/Li7707"><img src="https://img.shields.io/badge/GitHub-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://github.com/Li7707?tab=followers"><img src="https://img.shields.io/badge/Followers-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="followers"/></a>
-<a href="https://github.com/Li7707?tab=repositories"><img src="https://img.shields.io/badge/Repositories-BE185D?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>
+<a href="https://github.com/Li7707"><img src="https://img.shields.io/badge/GitHub-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>&nbsp;
+<a href="https://github.com/Li7707?tab=followers"><img src="https://img.shields.io/badge/Followers-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="followers"/></a>&nbsp;
+<a href="https://github.com/Li7707?tab=repositories"><img src="https://img.shields.io/badge/Repositories-BE185D?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>&nbsp;
+<a href="https://github.com/Li7707?tab=stars"><img src="https://img.shields.io/badge/Stars-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="stars"/></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Li7707&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS" alt="visitors"/>
 
 </div>
@@ -66,7 +66,11 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4" width="200" style="border-radius: 50%; border: 3px solid #F472B6;" alt="Noah avatar"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4">
+  <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4">
+  <img src="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4" width="200" style="border-radius: 50%; border: 3px solid #F472B6;" alt="Noah avatar"/>
+</picture>
 
 <br/>
 <br/>
@@ -103,6 +107,26 @@
 <a href="https://github.com/Li7707">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Li7707&theme=transparent&hide_border=true&background=0D0A14&stroke=F472B6&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 </a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
+
+<br/>
+
+<!-- ═══════════ ACTIVITY GRAPH ═══════════ -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Li7707&theme=react-dark&hide_border=true&bg_color=0D0A14&color=F472B6&line=EC4899&point=F472B6&area_color=F472B6&area=true&radius=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Li7707&theme=github-light&hide_border=true&bg_color=ffffff&color=F472B6&line=EC4899&point=F472B6">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Li7707&theme=react-dark&hide_border=true&bg_color=0D0A14&color=F472B6&line=EC4899&point=F472B6&area_color=F472B6&area=true&radius=8" width="100%" alt="activity graph"/>
+</picture>
 
 </div>
 
@@ -264,6 +288,22 @@ Building for the people who actually show up. Presence over performance, convers
 | Image Generation | Real-time Graphics | Node.js | Student Devs |
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
+
+<br/>
+
+<!-- ═══════════ SNAKE ANIMATION ═══════════ -->
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Li7707/Li7707/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Li7707/Li7707/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Li7707/Li7707/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 <br/>
 
