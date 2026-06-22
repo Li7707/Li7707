@@ -2,116 +2,119 @@
   ╔════════════════════════════════════════════════════════════════╗
   ║  Noah — Source Code Archaeologist 🏛️                         ║
   ║  Building software that feels like craft, not just code.       ║
-  ║                                                                ║
   ║  Halo · ShanShuiQing · ai-novel-comic-generator · Together    ║
-  ║                                                                ║
   ║  >> ACHIEVEMENT UNLOCKED: YOU READ THE SOURCE COMMENTS <<     ║
-  ║  Welcome, fellow traveler.                                    ║
   ╚════════════════════════════════════════════════════════════════╝
 -->
 
-<div align="center">
+<!-- ═══════════ HERO ═══════════ -->
 
-<!-- HERO: Big Avatar + Name -->
-
-<img src="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4" width="180" style="border-radius: 50%; border: 4px solid #7AA2F7; box-shadow: 0 0 40px rgba(122,162,247,0.4);" alt="Noah avatar"/>
-
-<br/><br/>
-
-# Hi, I'm Noah 👋
-
-### Full-Stack Developer &nbsp;·&nbsp; Builder &nbsp;·&nbsp; Creative Coder
-
-<sub>A developer who treats every commit like a brushstroke — slow when it matters, decisive when it doesn't. I build across web, AI, and creative coding, where technology meets something more human.</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Noah&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creative%20Coder&descAlignY=55&descSize=16&descColor=8b949e" alt="header"/>
 
 <br/>
 
-<!-- TYPING ANIMATION: Multi-line, bigger size -->
+<div align="center">
 
 <a href="https://github.com/Li7707">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=900&height=120&lines=Full-Stack+Developer+%7C+Builder+%7C+Curious+Tinkerer;%F0%9F%96%8C%EF%B8%8F+ShanShuiQing+%7C+Halo+%7C+ai-novel-comic-generator;%F0%9F%A7%A0+ShangXianAI+%7C+Together+--+always+shipping.;%F0%9F%92%BB+Software+should+feel+like+craft%2C+not+just+code." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Noah.+Welcome+to+my+digital+workshop.;%F0%9F%96%8C%EF%B8%8F+ShanShuiQing+%7C+Halo+%7C+ai-novel-comic-generator;%F0%9F%A7%A0+ShangXianAI+%7C+Together+--+always+shipping.;%F0%9F%92%BB+Software+should+feel+like+craft%2C+not+just+code." alt="typing" />
 </a>
 
 <br/>
 
-<!-- WAVE BANNER: Full-width gradient -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:9ECE6A,100:BB9AF7&height=120&section=header&text=Welcome%20to%20my%20digital%20workshop&fontSize=28&fontAlignY=55&fontColor=0D1117&animation=fadeIn" alt="banner"/>
-
-</div>
-
-<br/>
-
-<!-- SOCIAL BAR: Unified color theme -->
-
-<div align="center">
-
 <a href="https://github.com/Li7707">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="github"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="github"/>
 </a>
 <a href="https://github.com/Li7707?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-0D1117?style=for-the-badge&logo=github&logoColor=9ECE6A" alt="followers"/>
+  <img src="https://img.shields.io/badge/Followers-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="followers"/>
 </a>
 <a href="https://github.com/Li7707?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=BB9AF7" alt="repos"/>
+  <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="repos"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Li7707&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=0D1117&colorA=0D1117&textColor=7AA2F7" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=Li7707&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=0D1117&colorA=0D1117&textColor=58A6FF" alt="visitors"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,100:BB9AF7&height=2" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=2" alt="divider"/>
 
 <br/>
 
-<!-- SECTION 1: GITHUB STATS - All tokyonight theme, unified colors -->
+<!-- ═══════════ ABOUT ME ═══════════ -->
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## 🧑‍💻 About Me
+
+> A developer who treats every commit like a brushstroke — slow when it matters, decisive when it doesn't. I build across web, AI, and creative coding, where technology meets something more human.
+
+<br/>
+
+<table>
+<tr><td><strong>🏷️ Name</strong></td><td>Noah</td></tr>
+<tr><td><strong>📍 Location</strong></td><td>Earth · Asia</td></tr>
+<tr><td><strong>💼 Role</strong></td><td>Full-Stack Developer & Creative Coder</td></tr>
+<tr><td><strong>💻 Languages</strong></td><td>TypeScript · JavaScript · Python</td></tr>
+<tr><td><strong>🎯 Focus</strong></td><td>AI · Computer Vision · Creative Coding</td></tr>
+<tr><td><strong>🚧 Building</strong></td><td>Halo & ShanShuiQing</td></tr>
+</table>
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<br/>
+
+<img src="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4" width="200" style="border-radius: 50%; border: 3px solid #58A6FF;" alt="Noah avatar"/>
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Repos-0D1117?style=flat-square&logo=github&logoColor=58A6FF"/>&nbsp;
+<img src="https://img.shields.io/badge/Stars-0D1117?style=flat-square&logo=github&logoColor=3FB950"/>&nbsp;
+<img src="https://img.shields.io/badge/Followers-0D1117?style=flat-square&logo=github&logoColor=58A6FF"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=2" alt="divider"/>
+
+<br/>
+
+<!-- ═══════════ GITHUB STATS ═══════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Li7707">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Li7707&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&ring_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5&bg_color=0D1117" alt="stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Li7707&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&ring_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" alt="stats"/>
 </a>
 <a href="https://github.com/Li7707">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li7707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_title=true&text_color=C0CAF5&bg_color=0D1117" alt="langs"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li7707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_title=true&text_color=c9d1d9&bg_color=0D1117" alt="langs"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Li7707">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Li7707&theme=tokyonight&hide_border=true&background=0D1117&stroke=7AA2F7&ring=7AA2F7&fire=9ECE6A&currStreakLabel=7AA2F7&sideLabels=565F89&dates=565F89&currStreakNum=C0CAF5&sideNums=C0CAF5" alt="streak"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Li7707&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- SECTION 2: ABOUT ME - Visual table card, NO code block -->
-
-## 🧑‍💻 About Me
-
-<div align="center">
-
-| | |
-|:---:|---|
-| 🏷️ **Name** | Noah |
-| 📍 **Location** | Earth · Asia |
-| 💼 **Role** | Full-Stack Developer & Creative Coder |
-| 💻 **Code** | TypeScript · JavaScript · Python |
-| 🎯 **Focus** | AI · Computer Vision · Creative Coding · Web Dev |
-| 🚧 **Building** | Halo & ShanShuiQing |
-| 📝 **Motto** | Every commit is a brushstroke |
-| ✨ **Fun Fact** | I turn hand gestures into ink paintings |
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=2" alt="divider"/>
 
 <br/>
 
-<!-- SECTION 3: PROJECTS - 5 cards in a clean 2-column grid -->
+<!-- ═══════════ PROJECTS ═══════════ -->
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -119,14 +122,14 @@
 
 ### 🖌️ ShanShuiQing
 
-**「山水情」** &nbsp;·&nbsp; *Gesture-driven Ink Painting*
+**「山水情」** · *Gesture-driven Ink Painting*
 
-Interactive digital ink painting where hand gestures (via webcam) become brush strokes on virtual rice paper. A meditation on Chinese ink-wash aesthetics.
+Interactive digital ink painting — hand gestures become brush strokes on virtual rice paper. A meditation on Chinese ink-wash aesthetics, powered by computer vision.
 
 <sub>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=7AA2F7"/>
-<img src="https://img.shields.io/badge/CV-0D1117?style=flat-square&logo=opencv&logoColor=BB9AF7"/>
-<img src="https://img.shields.io/badge/⭐_1-9ECE6A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/⭐_1-3FB950?style=flat-square"/>
 </sub>
 
 [→ View Project](https://github.com/Li7707/ShanShuiQing)
@@ -136,14 +139,14 @@ Interactive digital ink painting where hand gestures (via webcam) become brush s
 
 ### ✨ Halo
 
-**AI-Powered Experimental** &nbsp;·&nbsp; *TS & Python*
+**AI-Powered Experimental** · *TypeScript & Python*
 
-Where human creativity meets machine intelligence. The codebase reads like a sketchbook — half-finished thoughts, fully committed.
+Where human creativity meets machine intelligence. The codebase reads like a sketchbook — half-finished thoughts, fully committed to the craft.
 
 <sub>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=7AA2F7"/>
-<img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=BB9AF7"/>
-<img src="https://img.shields.io/badge/⭐_1-9ECE6A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/⭐_1-3FB950?style=flat-square"/>
 </sub>
 
 [→ View Project](https://github.com/Li7707/Halo)
@@ -155,14 +158,14 @@ Where human creativity meets machine intelligence. The codebase reads like a ske
 
 ### 📖 ai-novel-comic-generator
 
-**AI Novel → Comic** &nbsp;·&nbsp; *Generative Pipeline*
+**AI Novel → Comic** · *Generative Pipeline*
 
 Turn novels into comics. Reads narrative, renders panels automatically. Exploring how stories can be retold across mediums.
 
 <sub>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=7AA2F7"/>
-<img src="https://img.shields.io/badge/Gen-0D1117?style=flat-square&logo=openai&logoColor=BB9AF7"/>
-<img src="https://img.shields.io/badge/⭐_1-9ECE6A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Generation-0D1117?style=flat-square&logo=openai&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/⭐_1-3FB950?style=flat-square"/>
 </sub>
 
 [→ View Project](https://github.com/Li7707/ai-novel-comic-generator)
@@ -172,13 +175,13 @@ Turn novels into comics. Reads narrative, renders panels automatically. Explorin
 
 ### 👥 Together
 
-**Community Platform** &nbsp;·&nbsp; *Python · Social*
+**Community Platform** · *Python · Social*
 
-Building for the people who actually show up. Presence over performance, conversation over metrics.
+Building for the people who actually show up. Presence over performance, conversation over metrics. A space for genuine connection.
 
 <sub>
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=9ECE6A"/>
-<img src="https://img.shields.io/badge/Community-0D1117?style=flat-square&logo=discourse&logoColor=BB9AF7"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Community-0D1117?style=flat-square&logo=discourse&logoColor=58A6FF"/>
 </sub>
 
 [→ View Project](https://github.com/Li7707/Together)
@@ -189,64 +192,28 @@ Building for the people who actually show up. Presence over performance, convers
 
 <br/>
 
-<!-- SECTION 4: SHANGXIANAI - Now in its own 2-column row, but with EQUAL width partner -->
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧠 ShangXianAI &nbsp;·&nbsp; 上仙
 
-### 🧠 ShangXianAI
-
-**上仙** &nbsp;·&nbsp; *AI meets ancient wisdom*
-
-Where AI meets ancient Chinese mythology. Every sufficiently advanced technology is indistinguishable from magic.
+*Where AI meets ancient Chinese mythology. Every sufficiently advanced technology is indistinguishable from magic.*
 
 <sub>
-<img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=BB9AF7"/>
-<img src="https://img.shields.io/badge/Experimental-0D1117?style=flat-square&logo=git&logoColor=9ECE6A"/>
+<img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Experimental-0D1117?style=flat-square&logo=git&logoColor=58A6FF"/>
 </sub>
 
 [→ View Project](https://github.com/Li7707/ShangXianAI)
 
-</td>
-<td width="50%" valign="top">
-
-### 🌱 What's next?
-
-**The road is long** &nbsp;·&nbsp; *Always exploring*
-
-I learn by building. I build to learn. The next project is the one I haven't thought of yet — probably two things that shouldn't work together.
-
-<sub>
-<img src="https://img.shields.io/badge/Curiosity-0D1117?style=flat-square&logo=git&logoColor=7AA2F7"/>
-<img src="https://img.shields.io/badge/Tinkering-0D1117?style=flat-square&logo=git&logoColor=9ECE6A"/>
-</sub>
-
-[→ See all repos](https://github.com/Li7707?tab=repositories)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- SECTION 5: PHILOSOPHY - Reduced from 5 to 3 lines for impact -->
-
-## 🎯 What I'm Building Toward
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  ▸  Software that respects attention — not captures it      │
-│  ▸  AI tools that augment craft — never replace it          │
-│  ▸  Interfaces that feel like a quiet conversation          │
-│  ▸  Code that reads like poetry — intentional & clean       │
-│  ▸  Projects that live at the intersection of code & culture│
-└─────────────────────────────────────────────────────────────┘
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=2" alt="divider"/>
 
 <br/>
 
-<!-- SECTION 6: TECH STACK - Pure visual grid, no color chaos -->
+<!-- ═══════════ TECH STACK ═══════════ -->
 
 ## 🧱 Tech Stack
 
@@ -260,27 +227,31 @@ I learn by building. I build to learn. The next project is the one I haven't tho
 
 ### Tools & Libraries
 
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=7AA2F7" alt="ts"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=9ECE6A" alt="js"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=7AA2F7" alt="py"/>
-<img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=9ECE6A" alt="vue"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=7AA2F7" alt="node"/>
-<img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=BB9AF7" alt="three"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" alt="ts"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF" alt="js"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="py"/>
+<img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=58A6FF" alt="vue"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF" alt="node"/>
+<img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=58A6FF" alt="three"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=BB9AF7" alt="cv"/>
-<img src="https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge&logo=google&logoColor=7AA2F7" alt="mp"/>
-<img src="https://img.shields.io/badge/Koa.js-0D1117?style=for-the-badge&logo=koa&logoColor=9ECE6A" alt="koa"/>
-<img src="https://img.shields.io/badge/Element_Plus-0D1117?style=for-the-badge&logo=element&logoColor=7AA2F7" alt="el"/>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=BB9AF7" alt="mysql"/>
-<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=9ECE6A" alt="vite"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=58A6FF" alt="cv"/>
+<img src="https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge&logo=google&logoColor=58A6FF" alt="mp"/>
+<img src="https://img.shields.io/badge/Koa.js-0D1117?style=for-the-badge&logo=koa&logoColor=58A6FF" alt="koa"/>
+<img src="https://img.shields.io/badge/Element_Plus-0D1117?style=for-the-badge&logo=element&logoColor=58A6FF" alt="el"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF" alt="mysql"/>
+<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=58A6FF" alt="vite"/>
 
 </div>
 
 <br/>
 
-<!-- SECTION 7: EXPLORING - 4-col grid with better visual separation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=2" alt="divider"/>
+
+<br/>
+
+<!-- ═══════════ EXPLORING ═══════════ -->
 
 ## 🔭 What I'm Exploring
 
@@ -296,11 +267,11 @@ I learn by building. I build to learn. The next project is the one I haven't tho
 
 <br/>
 
-<!-- FOOTER: Compact, with subtle emphasis -->
+<!-- ═══════════ FOOTER ═══════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:9ECE6A,100:BB9AF7&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontAlignY=65&fontColor=0D1117&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
