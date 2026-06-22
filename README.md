@@ -88,20 +88,22 @@
 
 <br/>
 
-<!-- SECTION 2: ABOUT ME - Use <pre align="center"> instead of <div> wrapper -->
+<!-- SECTION 2: ABOUT ME - Use fenced code block (NOT inside any div) -->
 
 ## 🧑‍💻 About Me
 
-<pre align="center"><code>const noah = {
+```ts
+const noah = {
   name:     "Noah",
   location: "Earth · Asia",
-  role:     "Full-Stack Developer &amp; Creative Coder",
+  role:     "Full-Stack Developer & Creative Coder",
   code:     ["TypeScript", "JavaScript", "Python"],
   focus:    ["AI", "Computer Vision", "Creative Coding", "Web Dev"],
-  building: "Halo &amp; ShanShuiQing",
+  building: "Halo & ShanShuiQing",
   motto:    "Every commit is a brushstroke",
   funFact:  "I turn hand gestures into ink paintings"
-};</code></pre>
+};
+```
 
 <br/>
 
