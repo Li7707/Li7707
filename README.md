@@ -1,46 +1,10 @@
 <!--
-  ┌────────────────────────────────────────────────────────────────┐
-  │  You're reading the source. Respect. Here's what you came for: │
-  └────────────────────────────────────────────────────────────────┘
   Noah — Full-Stack Developer & Creative Coder
   Building software that feels like craft, not just code.
   Halo · ShanShuiQing · ai-novel-comic-generator · Together
-  >> ACHIEVEMENT UNLOCKED: Curious Enough To Read The HTML <<
-  Congrats on finding the easter egg. Genuinely. Most people just
-  scroll. You opened the hood. That's the exact kind of person I
-  build for — go fork something and make it weird.
-  — Noah
 -->
 
-<!-- ═══════════ HERO ═══════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,1&height=180&section=header&text=Noah&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creative%20Coder&descAlignY=55&descSize=16&descColor=8b949e" alt="header"/>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Li7707">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=F472B6&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Noah.+Welcome+to+my+digital+workshop.;%F0%9F%96%8C%EF%B8%8F+ShanShuiQing+%7C+Halo+%7C+ai-novel-comic-generator;%F0%9F%A7%A0+ShangXianAI+%7C+Together+--+always+shipping.;%F0%9F%92%BB+Software+should+feel+like+craft%2C+not+just+code." alt="typing" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Li7707"><img src="https://img.shields.io/badge/GitHub-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>&nbsp;
-<a href="https://github.com/Li7707?tab=followers"><img src="https://img.shields.io/badge/Followers-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="followers"/></a>&nbsp;
-<a href="https://github.com/Li7707?tab=repositories"><img src="https://img.shields.io/badge/Repositories-BE185D?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>&nbsp;
-<a href="https://github.com/Li7707?tab=stars"><img src="https://img.shields.io/badge/Stars-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="stars"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Li7707&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS" alt="visitors"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
-
-<br/>
-
-<!-- ═══════════ ABOUT ME (左图右文，开头位置) ═══════════ -->
+<!-- ═══════════ ABOUT ME (前置到最顶部，左图右文) ═══════════ -->
 
 <table>
 <tr>
@@ -84,11 +48,29 @@
 
 <br/>
 
+<div align="center">
+
+<a href="https://github.com/Li7707">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=F472B6&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Noah.+Welcome+to+my+digital+workshop.;%F0%9F%96%8C%EF%B8%8F+ShanShuiQing+%7C+Halo+%7C+ai-novel-comic-generator;%F0%9F%A7%A0+ShangXianAI+%7C+Together+--+always+shipping.;%F0%9F%92%BB+Software+should+feel+like+craft%2C+not+just+code." alt="typing" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Li7707"><img src="https://img.shields.io/badge/GitHub-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>&nbsp;
+<a href="https://github.com/Li7707?tab=followers"><img src="https://img.shields.io/badge/Followers-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="followers"/></a>&nbsp;
+<a href="https://github.com/Li7707?tab=repositories"><img src="https://img.shields.io/badge/Repositories-BE185D?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>&nbsp;
+<a href="https://github.com/Li7707?tab=stars"><img src="https://img.shields.io/badge/Stars-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="stars"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Li7707&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS" alt="visitors"/>
+
+</div>
+
+<br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
 
 <br/>
 
-<!-- ═══════════ CURRENTLY WORKING ON (纯 HTML 表格卡片，不依赖外部服务) ═══════════ -->
+<!-- ═══════════ CURRENTLY WORKING ON (纯 HTML 表格卡片) ═══════════ -->
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
