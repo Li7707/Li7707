@@ -1,42 +1,42 @@
 <!--
-  ╔════════════════════════════════════════════════════════════════╗
-  ║  Noah — Source Code Archaeologist 🏛️                         ║
-  ║  Building software that feels like craft, not just code.       ║
-  ║  Halo · ShanShuiQing · ai-novel-comic-generator · Together    ║
-  ║  >> ACHIEVEMENT UNLOCKED: YOU READ THE SOURCE COMMENTS <<     ║
-  ╚════════════════════════════════════════════════════════════════╝
+  ┌────────────────────────────────────────────────────────────────┐
+  │  You're reading the source. Respect. Here's what you came for: │
+  └────────────────────────────────────────────────────────────────┘
+  Noah — Full-Stack Developer & Creative Coder
+  Building software that feels like craft, not just code.
+  Halo · ShanShuiQing · ai-novel-comic-generator · Together
+  >> ACHIEVEMENT UNLOCKED: Curious Enough To Read The HTML <<
+  Congrats on finding the easter egg. Genuinely. Most people just
+  scroll. You opened the hood. That's the exact kind of person I
+  build for — go fork something and make it weird.
+  — Noah
 -->
 
 <!-- ═══════════ HERO ═══════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Noah&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creative%20Coder&descAlignY=55&descSize=16&descColor=8b949e" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,1&height=180&section=header&text=Noah&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creative%20Coder&descAlignY=55&descSize=16&descColor=8b949e" alt="header"/>
 
 <br/>
 
 <div align="center">
 
 <a href="https://github.com/Li7707">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Noah.+Welcome+to+my+digital+workshop.;%F0%9F%96%8C%EF%B8%8F+ShanShuiQing+%7C+Halo+%7C+ai-novel-comic-generator;%F0%9F%A7%A0+ShangXianAI+%7C+Together+--+always+shipping.;%F0%9F%92%BB+Software+should+feel+like+craft%2C+not+just+code." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=F472B6&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Noah.+Welcome+to+my+digital+workshop.;%F0%9F%96%8C%EF%B8%8F+ShanShuiQing+%7C+Halo+%7C+ai-novel-comic-generator;%F0%9F%A7%A0+ShangXianAI+%7C+Together+--+always+shipping.;%F0%9F%92%BB+Software+should+feel+like+craft%2C+not+just+code." alt="typing" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Li7707">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="github"/>
-</a>
-<a href="https://github.com/Li7707?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="followers"/>
-</a>
-<a href="https://github.com/Li7707?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="repos"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Li7707&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=0D1117&colorA=0D1117&textColor=58A6FF" alt="visitors"/>
+<a href="https://marcyy.me"><img src="https://img.shields.io/badge/Coming_Soon-EC4899?style=for-the-badge&logo=safari&logoColor=white" alt="website"/></a>
+<a href="https://github.com/Li7707"><img src="https://img.shields.io/badge/GitHub-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://github.com/Li7707?tab=followers"><img src="https://img.shields.io/badge/Followers-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="followers"/></a>
+<a href="https://github.com/Li7707?tab=repositories"><img src="https://img.shields.io/badge/Repositories-BE185D?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>
+<img src="https://komarev.com/ghpvc/?username=Li7707&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS" alt="visitors"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=2" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
 
 <br/>
 
@@ -66,14 +66,14 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4" width="200" style="border-radius: 50%; border: 3px solid #58A6FF;" alt="Noah avatar"/>
+<img src="https://avatars.githubusercontent.com/Li7707?s=400&u=164058531&v=4" width="200" style="border-radius: 50%; border: 3px solid #F472B6;" alt="Noah avatar"/>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Repos-0D1117?style=flat-square&logo=github&logoColor=58A6FF"/>&nbsp;
-<img src="https://img.shields.io/badge/Stars-0D1117?style=flat-square&logo=github&logoColor=3FB950"/>&nbsp;
-<img src="https://img.shields.io/badge/Followers-0D1117?style=flat-square&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Repos-F472B6?style=flat-square&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Stars-EC4899?style=flat-square&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Followers-DB2777?style=flat-square&logo=github&logoColor=white"/>
 
 </td>
 </tr>
@@ -81,7 +81,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=2" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
 
 <br/>
 
@@ -92,23 +92,23 @@
 <div align="center">
 
 <a href="https://github.com/Li7707">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Li7707&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&ring_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" alt="stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Li7707&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&ring_color=F472B6&icon_color=F472B6&text_color=c9d1d9&bg_color=0D0A14&title_color=F472B6" alt="stats"/>
 </a>
 <a href="https://github.com/Li7707">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li7707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_title=true&text_color=c9d1d9&bg_color=0D1117" alt="langs"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li7707&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide_title=true&text_color=c9d1d9&bg_color=0D0A14&title_color=F472B6" alt="langs"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Li7707">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Li7707&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Li7707&theme=transparent&hide_border=true&background=0D0A14&stroke=F472B6&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 </a>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=2" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
 
 <br/>
 
@@ -127,9 +127,9 @@
 Interactive digital ink painting — hand gestures become brush strokes on virtual rice paper. A meditation on Chinese ink-wash aesthetics, powered by computer vision.
 
 <sub>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/⭐_1-3FB950?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-BE185D?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-DB2777?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐_1-EC4899?style=flat-square"/>
 </sub>
 
 [→ View Project](https://github.com/Li7707/ShanShuiQing)
@@ -144,9 +144,9 @@ Interactive digital ink painting — hand gestures become brush strokes on virtu
 Where human creativity meets machine intelligence. The codebase reads like a sketchbook — half-finished thoughts, fully committed to the craft.
 
 <sub>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/⭐_1-3FB950?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-BE185D?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-DB2777?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐_1-EC4899?style=flat-square"/>
 </sub>
 
 [→ View Project](https://github.com/Li7707/Halo)
@@ -163,9 +163,9 @@ Where human creativity meets machine intelligence. The codebase reads like a ske
 Turn novels into comics. Reads narrative, renders panels automatically. Exploring how stories can be retold across mediums.
 
 <sub>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Generation-0D1117?style=flat-square&logo=openai&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/⭐_1-3FB950?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-BE185D?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generation-DB2777?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐_1-EC4899?style=flat-square"/>
 </sub>
 
 [→ View Project](https://github.com/Li7707/ai-novel-comic-generator)
@@ -180,8 +180,8 @@ Turn novels into comics. Reads narrative, renders panels automatically. Explorin
 Building for the people who actually show up. Presence over performance, conversation over metrics. A space for genuine connection.
 
 <sub>
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Community-0D1117?style=flat-square&logo=discourse&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Python-BE185D?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Community-DB2777?style=flat-square&logo=discourse&logoColor=white"/>
 </sub>
 
 [→ View Project](https://github.com/Li7707/Together)
@@ -199,8 +199,8 @@ Building for the people who actually show up. Presence over performance, convers
 *Where AI meets ancient Chinese mythology. Every sufficiently advanced technology is indistinguishable from magic.*
 
 <sub>
-<img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Experimental-0D1117?style=flat-square&logo=git&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/AI-BE185D?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Experimental-DB2777?style=flat-square&logo=git&logoColor=white"/>
 </sub>
 
 [→ View Project](https://github.com/Li7707/ShangXianAI)
@@ -209,7 +209,7 @@ Building for the people who actually show up. Presence over performance, convers
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=2" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
 
 <br/>
 
@@ -227,27 +227,27 @@ Building for the people who actually show up. Presence over performance, convers
 
 ### Tools & Libraries
 
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" alt="ts"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF" alt="js"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="py"/>
-<img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=58A6FF" alt="vue"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF" alt="node"/>
-<img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=58A6FF" alt="three"/>
+<img src="https://img.shields.io/badge/TypeScript-BE185D?style=for-the-badge&logo=typescript&logoColor=white" alt="ts"/>
+<img src="https://img.shields.io/badge/JavaScript-DB2777?style=for-the-badge&logo=javascript&logoColor=white" alt="js"/>
+<img src="https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=white" alt="py"/>
+<img src="https://img.shields.io/badge/Vue.js-F472B6?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vue"/>
+<img src="https://img.shields.io/badge/Node.js-BE185D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node"/>
+<img src="https://img.shields.io/badge/Three.js-DB2777?style=for-the-badge&logo=threedotjs&logoColor=white" alt="three"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=58A6FF" alt="cv"/>
-<img src="https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge&logo=google&logoColor=58A6FF" alt="mp"/>
-<img src="https://img.shields.io/badge/Koa.js-0D1117?style=for-the-badge&logo=koa&logoColor=58A6FF" alt="koa"/>
-<img src="https://img.shields.io/badge/Element_Plus-0D1117?style=for-the-badge&logo=element&logoColor=58A6FF" alt="el"/>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF" alt="mysql"/>
-<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=58A6FF" alt="vite"/>
+<img src="https://img.shields.io/badge/OpenCV-EC4899?style=for-the-badge&logo=opencv&logoColor=white" alt="cv"/>
+<img src="https://img.shields.io/badge/MediaPipe-F472B6?style=for-the-badge&logo=google&logoColor=white" alt="mp"/>
+<img src="https://img.shields.io/badge/Koa.js-BE185D?style=for-the-badge&logo=koa&logoColor=white" alt="koa"/>
+<img src="https://img.shields.io/badge/Element_Plus-DB2777?style=for-the-badge&logo=element&logoColor=white" alt="el"/>
+<img src="https://img.shields.io/badge/MySQL-EC4899?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<img src="https://img.shields.io/badge/Vite-F472B6?style=for-the-badge&logo=vite&logoColor=white" alt="vite"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=2" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
 
 <br/>
 
@@ -271,7 +271,7 @@ Building for the people who actually show up. Presence over performance, convers
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,1&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
