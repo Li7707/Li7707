@@ -88,24 +88,20 @@
 
 <br/>
 
-<!-- SECTION 2: ABOUT ME - Single column, centered, no layout shift -->
+<!-- SECTION 2: ABOUT ME - Use <pre align="center"> instead of <div> wrapper -->
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-
-<pre><code>const noah = {
+<pre align="center"><code>const noah = {
   name:     "Noah",
   location: "Earth · Asia",
-  role:     "Full-Stack Developer & Creative Coder",
+  role:     "Full-Stack Developer &amp; Creative Coder",
   code:     ["TypeScript", "JavaScript", "Python"],
   focus:    ["AI", "Computer Vision", "Creative Coding", "Web Dev"],
-  building: "Halo & ShanShuiQing",
+  building: "Halo &amp; ShanShuiQing",
   motto:    "Every commit is a brushstroke",
   funFact:  "I turn hand gestures into ink paintings"
 };</code></pre>
-
-</div>
 
 <br/>
 
