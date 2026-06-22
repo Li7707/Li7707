@@ -94,18 +94,16 @@
 
 <div align="center">
 
-```typescript
-const noah: Developer = {
-  name: "Noah",
+<pre><code>const noah = {
+  name:     "Noah",
   location: "Earth · Asia",
-  role: "Full-Stack Developer & Creative Coder",
-  code: ["TypeScript", "JavaScript", "Python"],
-  focus: ["AI", "Computer Vision", "Creative Coding", "Web Dev"],
-  currently: "Building Halo & ShanShuiQing",
-  philosophy: "Every commit is a brushstroke",
-  funFact: "I turn hand gestures into ink paintings"
-};
-```
+  role:     "Full-Stack Developer & Creative Coder",
+  code:     ["TypeScript", "JavaScript", "Python"],
+  focus:    ["AI", "Computer Vision", "Creative Coding", "Web Dev"],
+  building: "Halo & ShanShuiQing",
+  motto:    "Every commit is a brushstroke",
+  funFact:  "I turn hand gestures into ink paintings"
+};</code></pre>
 
 </div>
 
