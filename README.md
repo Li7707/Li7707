@@ -88,36 +88,148 @@
 
 <br/>
 
-<!-- ═══════════ CURRENTLY WORKING ON (svg.bookmark.style 风格) ═══════════ -->
+<!-- ═══════════ CURRENTLY WORKING ON (纯 HTML 表格卡片，不依赖外部服务) ═══════════ -->
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 <br/>
 
-<a href="https://github.com/Li7707/ShanShuiQing">
-  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/ShanShuiQing&mode=light&style=horizontal" width="49%" alt="ShanShuiQing"/>
-</a>
-<a href="https://github.com/Li7707/Halo">
-  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/Halo&mode=dark&style=horizontal" width="49%" alt="Halo"/>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+<div style="background: linear-gradient(135deg, #1a1029 0%, #2d1248 100%); border: 1px solid #F472B6; border-radius: 12px; padding: 18px; min-height: 140px;">
 
-<a href="https://github.com/Li7707/ai-novel-comic-generator">
-  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/ai-novel-comic-generator&mode=light&style=horizontal" width="49%" alt="ai-novel-comic-generator"/>
-</a>
-<a href="https://github.com/Li7707/Together">
-  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/Together&mode=dark&style=horizontal" width="49%" alt="Together"/>
-</a>
+### <a href="https://github.com/Li7707/ShanShuiQing" style="color: #F472B6; text-decoration: none;">🖌️ ShanShuiQing</a>
 
-<br/><br/>
+**「山水情」** — *Gesture-driven Ink Painting*
 
-<a href="https://github.com/Li7707/ShangXianAI">
-  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/ShangXianAI&mode=light&style=horizontal" width="49%" alt="ShangXianAI"/>
-</a>
-<a href="https://github.com/Li7707/EcoPaste">
-  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/EcoPaste&mode=dark&style=horizontal" width="49%" alt="EcoPaste"/>
-</a>
+基于手势识别的交互式数字水墨画应用，用户通过摄像头在虚拟宣纸上挥毫泼墨。
+
+<sub>
+<img src="https://img.shields.io/badge/TypeScript-F472B6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-EC4899?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-DB2777?style=flat-square&logo=google&logoColor=white"/>
+</sub>
+
+[⭐ 1 · → View](https://github.com/Li7707/ShanShuiQing)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div style="background: linear-gradient(135deg, #1a1029 0%, #2d1248 100%); border: 1px solid #EC4899; border-radius: 12px; padding: 18px; min-height: 140px;">
+
+### <a href="https://github.com/Li7707/Halo" style="color: #EC4899; text-decoration: none;">✨ Halo</a>
+
+**AI 驱动实验性项目** — *TypeScript & Python*
+
+人类创造力与机器智能的交汇点，代码如草稿本——未完成的思想与已提交的工艺。
+
+<sub>
+<img src="https://img.shields.io/badge/TypeScript-F472B6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-EC4899?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Experimental-DB2777?style=flat-square&logo=git&logoColor=white"/>
+</sub>
+
+[⭐ 1 · → View](https://github.com/Li7707/Halo)
+
+</div>
+
+</td>
+</tr>
+<tr><td colspan="2" height="12"></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+<div style="background: linear-gradient(135deg, #1a1029 0%, #2d1248 100%); border: 1px solid #F472B6; border-radius: 12px; padding: 18px; min-height: 140px;">
+
+### <a href="https://github.com/Li7707/ai-novel-comic-generator" style="color: #F472B6; text-decoration: none;">📖 ai-novel-comic-generator</a>
+
+**AI 小说 → 漫画** — *Generative Pipeline*
+
+阅读叙事，自动生成分镜。在不同媒介间复述故事。
+
+<sub>
+<img src="https://img.shields.io/badge/TypeScript-F472B6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generation-EC4899?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Art-DB2777?style=flat-square&logo=openai&logoColor=white"/>
+</sub>
+
+[⭐ 1 · → View](https://github.com/Li7707/ai-novel-comic-generator)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div style="background: linear-gradient(135deg, #1a1029 0%, #2d1248 100%); border: 1px solid #EC4899; border-radius: 12px; padding: 18px; min-height: 140px;">
+
+### <a href="https://github.com/Li7707/Together" style="color: #EC4899; text-decoration: none;">👥 Together</a>
+
+**社区平台** — *Python · Social*
+
+为真正出现的人而建。在场胜过表演，交流胜过指标。
+
+<sub>
+<img src="https://img.shields.io/badge/Python-F472B6?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Community-EC4899?style=flat-square&logo=discourse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Social-DB2777?style=flat-square&logo=discourse&logoColor=white"/>
+</sub>
+
+[→ View](https://github.com/Li7707/Together)
+
+</div>
+
+</td>
+</tr>
+<tr><td colspan="2" height="12"></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+<div style="background: linear-gradient(135deg, #1a1029 0%, #2d1248 100%); border: 1px solid #F472B6; border-radius: 12px; padding: 18px; min-height: 140px;">
+
+### <a href="https://github.com/Li7707/ShangXianAI" style="color: #F472B6; text-decoration: none;">🧠 ShangXianAI</a>
+
+**上仙** — *AI × Ancient Mythology*
+
+AI 与中国古代神话的交汇。足够先进的技术，与魔法无异。
+
+<sub>
+<img src="https://img.shields.io/badge/JavaScript-F472B6?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-EC4899?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mythology-DB2777?style=flat-square&logo=git&logoColor=white"/>
+</sub>
+
+[→ View](https://github.com/Li7707/ShangXianAI)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div style="background: linear-gradient(135deg, #1a1029 0%, #2d1248 100%); border: 1px solid #EC4899; border-radius: 12px; padding: 18px; min-height: 140px;">
+
+### <a href="https://github.com/Li7707/EcoPaste" style="color: #EC4899; text-decoration: none;">📋 EcoPaste</a>
+
+**跨平台剪贴板管理** — *TypeScript · Forked*
+
+Fork 自 EcoPasteHub 的剪贴板管理工具，全平台支持。
+
+<sub>
+<img src="https://img.shields.io/badge/TypeScript-F472B6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tauri-EC4899?style=flat-square&logo=tauri&logoColor=white"/>
+<img src="https://img.shields.io/badge/Forked-DB2777?style=flat-square&logo=git&logoColor=white"/>
+</sub>
+
+[🍴 Fork · → View](https://github.com/Li7707/EcoPaste)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -203,18 +315,6 @@
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=2" alt="divider"/>
-
-<br/>
-
-<!-- ═══════════ SNAKE ANIMATION ═══════════ -->
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Li7707/Li7707/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Li7707/Li7707/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Li7707/Li7707/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 
 <br/>
 
