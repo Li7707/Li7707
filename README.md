@@ -115,8 +115,8 @@
 <a href="https://github.com/Li7707/ShangXianAI">
   <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/ShangXianAI&mode=light&style=horizontal" width="49%" alt="ShangXianAI"/>
 </a>
-<a href="https://github.com/Li7707/lensflow">
-  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/lensflow&mode=dark&style=horizontal" width="49%" alt="lensflow"/>
+<a href="https://github.com/Li7707/EcoPaste">
+  <img src="https://svg.bookmark.style/api?url=https://github.com/Li7707/EcoPaste&mode=dark&style=horizontal" width="49%" alt="EcoPaste"/>
 </a>
 
 <br/>
